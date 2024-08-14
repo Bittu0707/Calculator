@@ -1,2 +1,2 @@
 # Calculator
-Projects made using HTML CSS and JavaScript
+Projects made using HTML, CSS and JavaScript
